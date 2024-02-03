@@ -1,3 +1,3 @@
 select *
 from customer
-Where id = <nghiasuacode>
+Where id = <hasuacode>
